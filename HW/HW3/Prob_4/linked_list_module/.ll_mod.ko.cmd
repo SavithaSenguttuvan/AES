@@ -1,0 +1,1 @@
+cmd_/home/savitha/UCB/AES/HW3/2/linked_list_module/ll_mod.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/savitha/UCB/AES/HW3/2/linked_list_module/ll_mod.ko /home/savitha/UCB/AES/HW3/2/linked_list_module/ll_mod.o /home/savitha/UCB/AES/HW3/2/linked_list_module/ll_mod.mod.o ;  true
